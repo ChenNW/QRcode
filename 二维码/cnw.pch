@@ -1,0 +1,15 @@
+//
+//  cnw.pch
+//  二维码
+//
+//  Created by Cnw on 2017/3/29.
+//  Copyright © 2017年 Cnw. All rights reserved.
+//
+
+#ifndef cnw_pch
+#define cnw_pch
+
+#define kscreenW [UIScreen mainScreen].bounds.size.width
+#define kscreenH [UIScreen mainScreen].bounds.size.height
+#define spacing  20
+#endif /* cnw_pch */
